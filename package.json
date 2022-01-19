@@ -1,0 +1,18 @@
+{
+  "name": "levian.gelismis.register",
+  "version": "1.0.0",
+  "description": "Levian Gelişmiş Register",
+  "main": "levian.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Flusha",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "croxydb": "^0.0.7",
+    "discord.js": "^13.6.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2"
+  }
+}
